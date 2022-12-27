@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: User Story - Final Task
 about: Final task of coursera
 title: ''
 labels: ''
